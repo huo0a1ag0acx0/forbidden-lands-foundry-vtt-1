@@ -855,3 +855,5 @@
 
 - 🐛 Hotfix for various issues introduced in 5.1.0 ([b5d32cc](https://github.com/fvtt-fria-ligan/forbidden-lands-foundry-vtt/commit/b5d32cc9aedfdad0eaeddba870566b86a21ad37b))
 - 🐛 Minor bug in system.json zip link ([b23ca0d](https://github.com/fvtt-fria-ligan/forbidden-lands-foundry-vtt/commit/b23ca0d51ffd1dacf106e8fb61cf6b86654149a7))
+
+<!-- Auto-update: 2025-10-18T14:33:00.040251 -->
